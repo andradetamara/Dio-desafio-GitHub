@@ -1,0 +1,14 @@
+Aqui vou descrever os passo a passo de como eu "enviei" os meus novos arquivos para o GitHub
+1 Passo - Criei um arquivo txt dentro da pasta dio-desafio-github
+	OBS: Como uso o Macbook não tenho bloco de notas contudo, uso TextEdit.
+2 Passo - No meu terminal Git dou o comando: git status, meu novo arquivo aparece em vermelho
+3 Passo - comando: git add . = para eu adicionar tudo no git (enviar para o comando de versão)
+	OBS: Se eu tiver mais de um arquivo eu uso o mesmo comando apenas uma vez, ele enviará todos junto.
+4 Passo - git status - esse comando não é necessário agora mas, preferi usar para certificar se o comando git add . Funcionou
+	OBS: Se o meu novo arquivo estiver da cor verde é porque funcionou, esta no controle de versão local.
+5 Passo - git comia -m "Inclusão de passo a passo do Git" - essa mensagem "mensagem" é obrigatório.
+6 Passo - git push origin main - enviando todos os commit local para a nuvem.
+7 Passo - entrar no GitHub e verificar se atualizou.
+
+
+
